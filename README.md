@@ -2,7 +2,7 @@
 
 ![WHAT I PUT HERE?][Shrekt]
 
-* Primarly Language: Javascript/TypeScript/Clojure/C++?
+* Primarly Language: Rust/Javascript/TypeScript/Clojure/C++?
 * Movie Scenes: 
   * Shrek Farting
   * Operation Dumbo Drop
